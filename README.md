@@ -1,12 +1,13 @@
 # Falloutdude.github.io
 Dylan Francis F. Dy
 
-# Hi *bobola* 
+# Hi *fallout enthusiast*
 
 > Fallout shelter online tips
 
-List of my favorite youtubers
+List of helpful youtuber
 - Mr. Beast
 - Kristian Ph
-1. ?
 
+
+[`Facebook`](https://www.facebook.com/)

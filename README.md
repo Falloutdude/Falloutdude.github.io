@@ -24,6 +24,9 @@ List of helpful youtuber
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/01J5Sl8sqttq2LYHiRv2uY?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 
+| Suggestion Box: | dydylanfrancis@gmail.com |
+|-----------------|--------------------------|
+
 
 
 

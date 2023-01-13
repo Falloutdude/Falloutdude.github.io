@@ -7,25 +7,26 @@ List of helpful youtuber
 - RadKing
 - Fandom Games
 - Lore Torus
-- Game Theory
+- N_orte
 
 # Fallout Theories
 
 1. Power Armor lore ( Fandom Games )
-![alt text](https://i.ytimg.com/vi/EaR_-Aj_34U/maxresdefault.jpg)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EaR_-Aj_34U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 2. T51 Power Armor Lore ( Rad King )
-![alt text](https://i.ytimg.com/vi/qgViMTrtD8E/maxresdefault.jpg)
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qgViMTrtD8E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 3. Super Mutants ( Lore Torus )
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NuT7QlxZAbo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+4. The Grandchester ( N_orte )
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aGR0QK9DZgw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 
 
 
 
-
-
-
+| suggestion box: | dfdy@gbox.adnu.edu.ph | dydylanfrancis03@gmail.com |
+|----------------|-----------------------|----------------------------|
 
 
 

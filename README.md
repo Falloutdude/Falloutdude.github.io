@@ -56,7 +56,7 @@ The Institute is an advanced technocractic scientific cabal based in the Commonw
 # 4. Railroad
 Origins
 The Railroad has been in existence since at the least the time of the creation of the first successful Generation-3 synths by Institute scientists around the 2220s.[1] Following the public's discovery of the synths during the Broken Mask incident in Diamond City in 2229, the question if they deserve the same rights as natural humans became a major subject of debate, with frequent bickering between opposing sides. Many people believed that the Institute's synths were mere machines; just another model of advanced robot. Paranoia began to develop as local residents' loved ones vanished overnight and were replaced with artificial clones that eventually malfunctioned and went berserk, as with the case with Mr. Carter. Others, however felt that synths deserved to be free, having being treated as slaves by their creators at the Institute. This is a point that makes some convinced that the synths are worthy of saving. It was from these ideals that the earliest possible incarnation of the Railroad would emerge.[2]
-![alt text](https://static.wikia.nocookie.net/fallout/images/9/94/FO4_Railroad_flag.png/revision/latest?cb=20220601155557)
+![alt text](https://e0.pxfuel.com/wallpapers/765/959/desktop-wallpaper-the-railroad-fallout-faction.jpg)
 
 
 # Relax with Fallout music

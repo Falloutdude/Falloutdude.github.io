@@ -20,7 +20,7 @@ List of helpful youtuber
 4. The Grandchester ( N_orte )
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aGR0QK9DZgw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-## Fallout 4 ( 3 major tips )
+## Fallout 4 ( 4 major tips )
 These Fallout 4 tips are going to be handy if you're about to set off into its huge radioactive open world. There's a lot to see and do, and a lot to learn. You can do it the hard way - by trial and error, or you can use these tips to let you in on the things you need to know.
 ### 1. Collect everything for crafting and tag resources to find what you need
 Crafting has been expanded massively in Fallout 4. As well as potentially taking up hours of your time as you tinker and experiment with the literally thousands of different options at your disposal. All the junk you pick up is made up of component parts that can be put to better use for upgrading armour, modifying weapons and so forth. Clipboards, tin cans, desk fans - everything has a hidden value. You should always check your workbenches to see what components you're missing for whatever it is you're looking to build and then use the 'Tag for Search' function. From then on, your PipBoy will conveniently highlight those components when you're looting, so you can quickly and easily grab the things you need for your upgrades. But do remember to untag things once you've found enough, otherwise you'll end up searching for everything, all the time, forever.
